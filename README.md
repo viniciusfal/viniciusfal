@@ -9,7 +9,7 @@ I am a Full-stack Web Developer who is delving deeper into Javascript on a daily
 ---
 
 
-### Tech & Tools Preference
+#### Tech & Tools Preference
 <p>
 <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff">
 <img src="https://img.shields.io/badge/-ReactNative-000000?style=flat&logo=react&logoColor=00c8ff">
