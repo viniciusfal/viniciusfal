@@ -21,5 +21,6 @@ I am a Full-stack Web Developer who is delving deeper into Javascript on a daily
 <img src="https://img.shields.io/badge/-Docker-2C99EB?style=flat&logo=docker&logoColor=ffffff">
 <img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF">
 <img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
+<img src="http://img.shields.io/badge/-TypeORM-f8f8f6?style=flat&logo=typeorm&logoColor=FFFFFF">
 
 </p>
