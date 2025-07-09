@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- Full Stack Developer<br>- Developing since 2020<br>- Studying software engineering</p>
+<p align="left">- Full Stack Developer<br>- <br>- Studying software engineering</p>
 
 ###
 
