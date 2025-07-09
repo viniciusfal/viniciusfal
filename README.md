@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- Full Stack Developer<br>- <br>- Studying software engineering</p>
+<p align="left">- Full Stack Developer<br>- Studying software engineering</p>
 
 ###
 
